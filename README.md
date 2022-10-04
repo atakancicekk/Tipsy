@@ -9,7 +9,8 @@ App that i built from scratch using the Model View Controller (MVC) pattern. I b
 
 <br>
 
-![2019-09-17_15-55-46-8f3851b82db71f26ceb97fd2f6b33072](https://user-images.githubusercontent.com/55702254/193810439-2ce5419e-26ca-4587-99af-601d7bb25132.gif)
+![2019-09-17_15-56-14-a024a9c37606ff9c8d5f5b88993b47db (1)](https://user-images.githubusercontent.com/55702254/193810678-bf69d551-3470-4838-9ad9-850e2844752e.gif)
+
 
 
 
