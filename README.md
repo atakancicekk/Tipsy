@@ -5,7 +5,10 @@
 
 #  Tipsy
 
-App that i built from scratch using the Model View Controller (MVC) pattern. I built a useful tip calculation app. 
+App that i built from scratch using the Model View Controller (MVC) pattern. I built a useful check calculation app.
+Simply enter the amount, tip percentage that you want to tip and the total person count. The app will calculate how much a person must pay !
+
+
 
 <br>
 
